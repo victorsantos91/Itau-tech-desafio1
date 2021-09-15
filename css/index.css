@@ -1,0 +1,62 @@
+
+.menu-items{
+    display:flex;
+}
+a{
+    padding:20px;
+    color: #FFFFFF
+}
+h1{
+    padding:15px;
+}
+.header{
+    display: flex;
+	justify-content: space-between;
+    align-items: center;
+    background-color: #EC7000;
+    color: #FFFFFF;
+    
+}
+.noticia{
+    flex: 0 1 24%;
+}
+.credito{
+    padding: 40px;
+    text-align: center;
+}
+.ul-items{
+    text-decoration: none;
+    list-style:none;
+    color: #FFFFFF
+}
+section{
+    background-color: #fff;
+    height: 60rem;
+}
+footer{
+    background-color: #0F1626;
+    color:white;
+}
+a{
+    color: #FFFFFF;
+    text-decoration:none
+}
+article{
+    padding:40px;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  button{
+    border: none;
+    background-color: #0F1626;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+body{
+    margin:0px;
+}
