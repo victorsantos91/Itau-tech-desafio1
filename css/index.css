@@ -15,7 +15,15 @@ h1{
     align-items: center;
     background-color: #EC7000;
     color: #FFFFFF;
+    font-family: roboto,sans-serif;
     
+}
+.teste{
+    position: fixed;
+    width: 100%;
+}
+.teste2{
+    padding-top: 10%;
 }
 .noticia{
     flex: 0 1 24%;
